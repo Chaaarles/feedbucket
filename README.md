@@ -10,8 +10,8 @@ application, follow these steps:
 
 ```shell
 # Clone the repository
-git clone <repository>
-cd <repository>
+git clone https://github.com/Chaaarles/feedbucket.git
+cd feedbucket
 ```
 
 ```shell
