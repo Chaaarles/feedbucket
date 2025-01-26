@@ -23,4 +23,5 @@ php artisan key:generate
 npm run dev
 ./vendor/bin/sail up -d
 ./vendor/bin/sail artisan migrate
+./vendor/bin/sail artisan storage:link
 ```
